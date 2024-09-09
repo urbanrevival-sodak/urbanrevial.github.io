@@ -1,0 +1,170 @@
+@charset "utf-8";
+
+.total-footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #FAF9F6;
+    padding-right: auto;
+    padding-left: auto;
+}
+.team-image {
+    padding-top: 50px;
+}
+
+
+.total-header {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #FAF9F6;
+}
+
+.total-page {
+    overflow-x: hidden;
+}
+
+.index-urbanrevival {
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+    font-family: "Gotham Thin";
+    right: auto;
+    left: auto;
+}
+
+.index-options {
+    color: #000000;
+    overflow-x: hidden;
+    font-family: "Gotham Thin";
+    text-decoration: none;
+}
+.team-insta {
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+
+.index-main {
+
+}
+.team-header {
+    color: #000000;
+    font-family: "Gotham Thin";
+    text-decoration: none;
+}
+.reserve-header {
+    margin-top: 50px;
+    margin-bottom: 25px;
+    color: #000000;
+    font-family: "Gotham Thin";
+    text-decoration: none;
+}
+.team-members {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #454545;
+    font-family: "Gotham Thin";
+    text-decoration: none;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.jack-header {
+    font-family: "Gotham Thin";
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+}
+.jack-footer {
+    padding-bottom: 25px;
+    padding-top: 25px;
+    color: #000000;
+    font-family: "Gotham Thin";
+    text-align: center;
+    text-decoration: none;
+}
+
+.jack-body {
+    color: #000000;
+    font-family: "Gotham Thin";
+    text-align: justify;
+    text-decoration: none;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.total-table {
+    margin-top: 50px;
+    margin-bottom: 75px;
+}
+
+.index-text {
+    color: #000000;
+    text-decoration: none;
+    text-align: left;
+    font-family: "Gotham Thin";
+    padding-right: 100px;
+    padding-left: 100px;
+}
+.contact-text {
+    font-family: "Gotham Thin";
+    color: #000000;
+}
+
+.btn-info {
+	width: 50%;
+	letter-spacing: 2px;
+	color: #FAF9F6;
+	font-family: "Gotham Thin";
+}
+
+.btn-info:hover {
+	background: transparent;
+	transform: scale(1.05);
+}
+
+.total-text {
+	font-family: "Gotham Thin";
+}
+
+.total-text2 {
+	font-family: "Gotham Thin";
+	color: #000000;
+}
+
+.total-text3 {
+    font-family: "Gotham Thin";
+    color: #000000;
+    margin-right: 75px;
+    margin-left: 75px;
+}
+
+.aboutus-links {
+    font-family: "Gotham Thin";
+    text-decoration: none;
+    font-size: 50px;
+	color: #000000;
+}
+
+.aboutus-links:hover {
+    color: #676767;
+}
+
+.jack-footer:hover {
+	color: #676767;
+}
+
+.who-images {
+	
+}
+
+.who-images:hover {
+	transform: scale(1.05);
+}
+
+.timeline-image1 {
+}
+
+.timeline-image1:hover {
+	transform: scale(1.15)
+}
